@@ -1,6 +1,0 @@
-projectKey=ConsoleApplication101
-serverUrl=http://l:10000
-serverVersion=10.7.0.96327
-dashboardUrl=http://l:10000/dashboard?id=ConsoleApplication101
-ceTaskId=c5f5a5f2-52d6-4b90-9b52-79d6e882489f
-ceTaskUrl=http://l:10000/api/ce/task?id=c5f5a5f2-52d6-4b90-9b52-79d6e882489f
